@@ -320,12 +320,12 @@
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-20",
-    "title": "Audio Engineering Collective Discord",
+    "title": "Sound Design & Audio Engineering Guild",
     "platform": "Discord",
     "category": "Mix & Master",
     "memberCount": "44,000+ members",
     "description": "Mix critique channels, reference track comparisons, and monitoring acoustic discussions.",
-    "joinUrl": "https://discord.gg/audioengineering",
+    "joinUrl": "https://discord.gg/sounddesign",
     "tags": [
       "audio",
       "mastering",
@@ -336,12 +336,12 @@
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-21",
-    "title": "EDM Producers Hub Discord",
+    "title": "Voice Acting & Audio Craft Discord",
     "platform": "Discord",
     "category": "Electronic Dance Music",
     "memberCount": "51,000+ members",
     "description": "Genre-specific channels for house, techno, bass music, synthwave, and trance production.",
-    "joinUrl": "https://discord.gg/edmproduction",
+    "joinUrl": "https://discord.gg/voiceacting",
     "tags": [
       "edm",
       "electronic",
@@ -352,12 +352,12 @@
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-22",
-    "title": "Beatmakers Lounge Discord",
+    "title": "Content Creators Audio Discord",
     "platform": "Discord",
     "category": "Hip Hop & Beats",
     "memberCount": "38,000+ members",
     "description": "Producer cookups, vinyl digging discussions, loop sharing, and vocal engineering tips.",
-    "joinUrl": "https://discord.gg/makinghiphop",
+    "joinUrl": "https://discord.gg/creators",
     "tags": [
       "hiphop",
       "beats",
