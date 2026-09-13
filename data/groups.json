@@ -1,6 +1,24 @@
 [
   {
     "id": "sound-design-music-production-hub-discord-20260913-1",
+    "title": "EDM Producers Hub Discord",
+    "platform": "Discord",
+    "category": "Electronic Dance Music",
+    "memberCount": "51,000+ members",
+    "description": "Genre-specific channels for house, techno, bass music, synthwave, and trance production.",
+    "joinUrl": "https://discord.gg/edmproduction",
+    "tags": [
+      "edm",
+      "electronic",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
+    "id": "sound-design-music-production-hub-discord-20260913-1",
     "title": "Audio Engineering Collective Discord",
     "platform": "Discord",
     "category": "Mix & Master",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {
