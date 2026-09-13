@@ -1,5 +1,23 @@
 [
   {
+    "id": "sound-design-music-production-hub-discord-20260913-1",
+    "title": "Audio Engineering Collective Discord",
+    "platform": "Discord",
+    "category": "Mix & Master",
+    "memberCount": "44,000+ members",
+    "description": "Mix critique channels, reference track comparisons, and monitoring acoustic discussions.",
+    "joinUrl": "https://discord.gg/audioengineering",
+    "tags": [
+      "audio",
+      "mastering",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "electronic-music-production-synthesizer-hub-reddit-1",
     "title": "r/edmproduction Electronic Producers",
     "platform": "Reddit",
@@ -14,7 +32,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-2",
@@ -31,7 +50,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-3",
@@ -48,7 +68,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-4",
@@ -65,7 +86,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-5",
@@ -82,7 +104,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-6",
@@ -99,7 +122,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-7",
@@ -116,7 +140,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-8",
@@ -133,7 +158,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-9",
@@ -150,7 +176,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-10",
@@ -167,7 +194,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-11",
@@ -184,7 +212,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-12",
@@ -201,7 +230,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-13",
@@ -218,7 +248,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-14",
@@ -235,7 +266,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-15",
@@ -252,7 +284,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-16",
@@ -268,7 +301,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-17",
@@ -284,7 +318,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-18",
@@ -300,7 +335,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-19",
@@ -316,7 +352,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-20",
@@ -332,7 +369,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-21",
@@ -348,7 +386,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-discord-22",
@@ -364,7 +403,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-telegram-23",
@@ -380,7 +420,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-telegram-24",
@@ -396,7 +437,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-telegram-25",
@@ -412,7 +454,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-telegram-26",
@@ -428,7 +471,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-forum-27",
@@ -444,7 +488,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-forum-28",
@@ -460,7 +505,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-forum-29",
@@ -476,7 +522,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-forum-30",
@@ -492,6 +539,7 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
