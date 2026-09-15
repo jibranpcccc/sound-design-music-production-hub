@@ -1,16 +1,16 @@
 [
   {
     "id": "sound-design-music-production-hub-reddit-20260915-1",
-    "title": "r/science Academic Research",
+    "title": "r/sounddesign Audio Synthesis Guild",
     "platform": "Reddit",
-    "category": "Science & Innovation",
-    "memberCount": "32,000,000+ members",
-    "description": "Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.",
-    "joinUrl": "https://www.reddit.com/r/science/",
+    "category": "Sound Design",
+    "memberCount": "120,000+ members",
+    "description": "Dedicated community for foley artists, synth patch designers, game audio implementers, and cinematic sound effect creators.",
+    "joinUrl": "https://www.reddit.com/r/sounddesign/",
     "tags": [
-      "science",
-      "research",
-      "innovation",
+      "sound-design",
+      "audio",
+      "synthesis",
       "reddit"
     ],
     "verified": true,
@@ -247,24 +247,6 @@
       "hiphop",
       "beats",
       "sampling",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "electronic-music-production-synthesizer-hub-reddit-10",
-    "title": "r/sounddesign Audio Synthesis",
-    "platform": "Reddit",
-    "category": "Sound Design",
-    "memberCount": "62,000+ members",
-    "description": "Foley recording, sci-fi synth impacts, cinematic risers, and frequency modulation techniques.",
-    "joinUrl": "https://www.reddit.com/r/sounddesign/",
-    "tags": [
-      "sound-design",
-      "foley",
-      "cinematic",
       "reddit"
     ],
     "verified": true,
