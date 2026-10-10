@@ -4,10 +4,17 @@
     <title>Electronic Music Production &amp; Synthesizer Hub</title>
     <link>https://sound-design-music-production-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:03:40 GMT</lastBuildDate>
     <atom:link href="https://sound-design-music-production-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-reddit-20261010-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:03:40 GMT</pubDate>
+      <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
       <link>https://discord.gg/golang</link>
       <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-discord-20261009-1-2026-10-09</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-discord-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:31:44 GMT</pubDate>
       <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Mix critique channels, reference track comparisons, and monitoring acoustic discussions.</description>
-    </item>
-<item>
-      <title>Electronic Music Production &amp; Synthesizer Hub Initial Release</title>
-      <link>https://sound-design-music-production-hub.netlify.app/</link>
-      <pubDate>Fri, 11 Sep 2026 06:05:12 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
