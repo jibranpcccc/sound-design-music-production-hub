@@ -4,10 +4,17 @@
     <title>Electronic Music Production &amp; Synthesizer Hub</title>
     <link>https://sound-design-music-production-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:03:41 GMT</lastBuildDate>
     <atom:link href="https://sound-design-music-production-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
+      <link>https://discord.gg/nextjs</link>
+      <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-discord-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:03:41 GMT</pubDate>
+      <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-discord-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/sound-design-music-production-hub/#sound-design-music-production-hub-reddit-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
       <description>Newly verified community added to Sound Design Music Production Hub: Dedicated community for foley artists, synth patch designers, game audio implementers, and cinematic sound effect creators.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
-      <link>https://www.reddit.com/r/science/</link>
-      <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-reddit-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:03:19 GMT</pubDate>
-      <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
     </item>
   </channel>
 </rss>
