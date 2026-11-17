@@ -4,10 +4,17 @@
     <title>Electronic Music Production &amp; Synthesizer Hub</title>
     <link>https://sound-design-music-production-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:49:43 GMT</lastBuildDate>
     <atom:link href="https://sound-design-music-production-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-forum-20261023-1-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 06:49:43 GMT</pubDate>
+      <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-forum-20261023-1-2026-11-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-discord-20261017-1-2026-10-17</guid>
       <pubDate>Sat, 17 Oct 2026 06:03:41 GMT</pubDate>
       <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
-      <link>https://discord.gg/devcord</link>
-      <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-discord-20261016-1-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 06:03:47 GMT</pubDate>
-      <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Friendly web development and programming community covering modern web stacks, design, and career growth.</description>
     </item>
   </channel>
 </rss>
