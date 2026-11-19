@@ -4,10 +4,17 @@
     <title>Electronic Music Production &amp; Synthesizer Hub</title>
     <link>https://sound-design-music-production-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:07:30 GMT</lastBuildDate>
     <atom:link href="https://sound-design-music-production-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/synthesizers Hardware &amp; Modular (Reddit)</title>
+      <link>https://www.reddit.com/r/synthesizers/</link>
+      <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#electronic-music-production-synthesizer-hub-reddit-2-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:07:30 GMT</pubDate>
+      <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Analog modular Eurorack gear, polyphonic synthesizers, patch routing, and sound design techniques.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/edmproduction Electronic Producers (Reddit)</title>
       <link>https://www.reddit.com/r/edmproduction/</link>
       <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#electronic-music-production-synthesizer-hub-reddit-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-github-20261020-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:04:59 GMT</pubDate>
       <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
-      <link>https://discord.gg/tailwind</link>
-      <guid isPermaLink="false">https://sound-design-music-production-hub.netlify.app/#sound-design-music-production-hub-discord-20261019-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:03:41 GMT</pubDate>
-      <description>Newly verified community added to Electronic Music Production &amp; Synthesizer Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
     </item>
   </channel>
 </rss>
