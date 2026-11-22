@@ -1,5 +1,24 @@
 [
   {
+    "id": "electronic-music-production-synthesizer-hub-reddit-5",
+    "title": "r/ableton Live Workflows",
+    "platform": "Reddit",
+    "category": "Ableton Live",
+    "memberCount": "240,000+ members",
+    "description": "Ableton Live 12 racks, Max for Live devices, audio warping algorithms, and MIDI routing.",
+    "joinUrl": "https://www.reddit.com/r/ableton/",
+    "tags": [
+      "ableton",
+      "daw",
+      "midi",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "electronic-music-production-synthesizer-hub-reddit-4",
     "title": "r/audioengineering Studio Engineering",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -736,24 +755,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "electronic-music-production-synthesizer-hub-reddit-5",
-    "title": "r/ableton Live Workflows",
-    "platform": "Reddit",
-    "category": "Ableton Live",
-    "memberCount": "240,000+ members",
-    "description": "Ableton Live 12 racks, Max for Live devices, audio warping algorithms, and MIDI routing.",
-    "joinUrl": "https://www.reddit.com/r/ableton/",
-    "tags": [
-      "ableton",
-      "daw",
-      "midi",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-6",
