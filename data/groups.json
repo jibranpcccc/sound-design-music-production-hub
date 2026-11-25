@@ -1,5 +1,24 @@
 [
   {
+    "id": "electronic-music-production-synthesizer-hub-reddit-8",
+    "title": "r/modular Eurorack Systems",
+    "platform": "Reddit",
+    "category": "Modular Synthesizers",
+    "memberCount": "85,000+ members",
+    "description": "Control voltage (CV) modulation, clock dividers, granulators, and custom Eurorack case design.",
+    "joinUrl": "https://www.reddit.com/r/modular/",
+    "tags": [
+      "modular",
+      "eurorack",
+      "cv",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "electronic-music-production-synthesizer-hub-reddit-7",
     "title": "r/Logic_Studio Apple DAW Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -793,24 +812,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "electronic-music-production-synthesizer-hub-reddit-8",
-    "title": "r/modular Eurorack Systems",
-    "platform": "Reddit",
-    "category": "Modular Synthesizers",
-    "memberCount": "85,000+ members",
-    "description": "Control voltage (CV) modulation, clock dividers, granulators, and custom Eurorack case design.",
-    "joinUrl": "https://www.reddit.com/r/modular/",
-    "tags": [
-      "modular",
-      "eurorack",
-      "cv",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "electronic-music-production-synthesizer-hub-reddit-9",
